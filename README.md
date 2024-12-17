@@ -1,0 +1,1 @@
+A modern React Native boilerplate with Expo, featuring a clean and scalable feature-based architecture. Includes integrated linting, Husky pre-commit hooks, and robust configurations to streamline development. Perfect for kickstarting new projects!
