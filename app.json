@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "minimilis",
-    "slug": "minimilis",
+    "name": "sandrios",
+    "slug": "sandrios",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -27,7 +27,7 @@
     },
     "extra": {
       "eas": {
-        "projectId": "a00d9ff9-9098-4c93-87e2-749b30503bf9"
+        "projectId": "dfb0c224-ec07-4b17-8dfc-ee8ac899c788"
       }
     }
   }
